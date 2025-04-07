@@ -1,0 +1,8 @@
+{
+  "name": "javaDemo",
+  "version": "1.0.0",
+  "main": "node interactiveCalculator.js",
+  "scripts": {
+    "start": "node interactiveCalculator.js"
+  }
+}
